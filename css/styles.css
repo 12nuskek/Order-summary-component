@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+}
+
+.column{
+    flex-direction: column;
+}
+
+#order-summary-box{
+    overflow: hidden;
+    border-radius: 25px;
+    width: 700px;
+    align-items: center;
+    max-width: 400px;
+
+ 
+}
+#banner-image{
+
+}
+
+#banner-image img{
+
+}
+
